@@ -1,0 +1,26 @@
+{
+  "name": "nodejsgd",
+  "version": "1.0.0",
+  "description": "This is a first project Google Docs API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vexdex/nodejsgd.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "Google",
+    "Docs",
+    "API"
+  ],
+  "author": "Vexdex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vexdex/nodejsgd/issues"
+  },
+  "homepage": "https://github.com/Vexdex/nodejsgd#readme"
+}
