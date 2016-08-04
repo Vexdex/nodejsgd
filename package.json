@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Vexdex/nodejsgd/issues"
   },
-  "homepage": "https://github.com/Vexdex/nodejsgd#readme"
+  "homepage": "https://github.com/Vexdex/nodejsgd#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "google-spreadsheet": "^2.0.3"
+  }
 }
